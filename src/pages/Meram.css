@@ -1,0 +1,30 @@
+.img2 {
+  opacity: 0.9;
+}
+
+.img2:hover {
+  opacity: 1.0;
+}
+
+div.gallery2 {
+  margin: 60px;
+  border: 3px solid #32c67c;
+  float: left;
+  width: 200px;
+}
+
+div.gallery2:hover {
+  border: 3px solid #32c67c;
+  background-color: #b3ffb5;
+}
+
+div.gallery2 img {
+  width: 100%;
+  height: auto;
+  border: 2px solid #32c67c;
+}
+
+div.desc2 {
+  padding: 15px;
+  text-align: center;
+}
