@@ -9,3 +9,5 @@ Currently, two official plugins are available:
 
   
 https://github.com/G-EzgiKY/mezuniyetMegaFinal/assets/131214399/94739f89-0010-4f52-84e0-35bc27559e6c
+
+VİDEO KALİTESİNİ NE YAZIK Kİ DÜŞÜRMEK ZORUNDA KALDIM
