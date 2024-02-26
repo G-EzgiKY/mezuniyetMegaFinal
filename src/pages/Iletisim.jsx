@@ -30,9 +30,7 @@ function Iletisim() {
                     <h5>
                         35846-96487-38597</h5>
 
-                    <h4><b>IBAN</b></h4>
-                    <h5>
-                        TR33 0001 2009 5240 0007 0000 02</h5>
+
 
 
                     <div className='div5 '>
